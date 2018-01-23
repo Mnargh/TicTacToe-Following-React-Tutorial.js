@@ -50,6 +50,7 @@ class App extends Component {
   resetState() {
     this.setState(this.initialState);
   }
+  //test
 
   // resetBoard = () => {
   //   console.log("hello")
